@@ -1,6 +1,9 @@
 h1{
 	font-size: 20px;
 }
+.sitename{
+	color:blue;
+}
 
 .acpw{
 	display:inline-block;
