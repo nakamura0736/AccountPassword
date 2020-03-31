@@ -17,3 +17,6 @@
 ・aタグにサイトURL(ログイン画面が望ましい)を入力する。
 
 ・tdタグにそれぞれアカウント名とパスワードを入力する。
+
+■ページURL
+https://nakamura0736.github.io/AccountPassword/
